@@ -1,0 +1,96 @@
+
+player.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+d0
+  rotate: false
+  xy: 1, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 1, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 1, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+falling
+  rotate: false
+  xy: 131, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 261, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 131, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+w0
+  rotate: false
+  xy: 261, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 391, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 261, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+w3
+  rotate: false
+  xy: 391, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+w4
+  rotate: false
+  xy: 521, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+w5
+  rotate: false
+  xy: 391, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1

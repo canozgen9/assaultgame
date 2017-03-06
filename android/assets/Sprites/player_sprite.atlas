@@ -1,0 +1,108 @@
+
+player_sprite.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+player_sprite2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+d0
+  rotate: false
+  xy: 0, 256
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 0, 0
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 128, 256
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 128, 0
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+falling
+  rotate: false
+  xy: 256, 256
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 256, 0
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 384, 256
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+w0
+  rotate: false
+  xy: 384, 0
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 512, 256
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 512, 0
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+w3
+  rotate: false
+  xy: 640, 256
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+w4
+  rotate: false
+  xy: 640, 0
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+w5
+  rotate: false
+  xy: 768, 256
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
